@@ -1,0 +1,6 @@
+name: PartyArmor
+version: '${project.version}'
+main: party.armor.partyarmor.PartyArmor
+api-version: 1.19
+authors: [MrDonald]
+description: Fun all purpose plugin!
